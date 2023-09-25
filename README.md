@@ -1,1 +1,1 @@
-É um projeto de loteria(LotoFácil), que consiste em um sorteador de número de 0 a 100, letra de A a Z e também de Par ou Ímpar. Foi criado no IntelliJ IDEA 2023.2.2 e utilizou as bibliotecas "java.util.Random" e "java.util.Scanner".
+É um projeto de loteria(LotoFácil), que consiste em um sorteador de número de 0 a 100, letra de A a Z e também de Par ou Ímpar. Foi criado no IntelliJ IDEA 2023.2.2 e utilizou as bibliotecas "java.awt.*", "java.awt.event.ActionEvent", "java.awt.event.ActionListener", "java.util.Random", e "javax.swing.*".
